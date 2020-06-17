@@ -11,6 +11,7 @@ namespace Projekat
         static void Main(string[] args)
         {
             Console.WriteLine("Ispis sa nove grane");
+            Console.WriteLine("Dodao nesto na novoj grani");
         }
     }
 }
