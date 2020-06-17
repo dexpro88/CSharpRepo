@@ -10,7 +10,11 @@ namespace Projekat
     {
         static void Main(string[] args)
         {
+ 
             Console.WriteLine("Dodatne izmene");
+ 
+            Console.WriteLine("Ispis sa nove grane");
+ 
         }
     }
 }
