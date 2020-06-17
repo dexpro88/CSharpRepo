@@ -15,6 +15,10 @@ namespace Projekat
  
             Console.WriteLine("Ispis sa nove grane");
  
+            Console.WriteLine("Dodao nesto na novoj grani");
+
+            Console.WriteLine("Jos ispisa");
+ 
         }
     }
 }
