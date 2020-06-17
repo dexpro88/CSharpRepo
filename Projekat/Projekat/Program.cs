@@ -10,7 +10,7 @@ namespace Projekat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Neki  izmenjeni tekst");
+            Console.WriteLine("Dodatne izmene");
         }
     }
 }
